@@ -37,5 +37,3 @@ hospital.exe
 ```
 Then choose options from the CLI menu to allocate beds, add patients, and generate reports.
 
-## Resume Bullet
-Implemented a hospital bed and resource allocation system in C++ with MySQL backend using priority queues for urgent patient assignment and hash-based resource tracking, producing daily operational reports.
